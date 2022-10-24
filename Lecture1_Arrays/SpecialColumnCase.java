@@ -1,3 +1,5 @@
+package Lecture1_Arrays;
+
 public class SpecialColumnCase {
     public static void main(String[] args) {
         // As column size is not mandatory to mention so when we go to print the two-dimensional array we don't know what size of column to mention.
