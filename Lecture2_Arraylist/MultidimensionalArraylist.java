@@ -10,7 +10,7 @@ public class MultidimensionalArraylist {
 
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
 
-        // initially it is going to be empty so lets add 3 lists to it
+        // initially it is going to be empty so let's add 3 lists to it
 
         // initialisation
         for (int i = 0; i < 3; i++) {

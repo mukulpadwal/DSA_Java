@@ -3,7 +3,7 @@ package Lecture1_Arrays;
 public class Max {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,6};
-        
+
         System.out.println(maxValue(arr));
     }
 
