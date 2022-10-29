@@ -4,7 +4,7 @@ package Lecture4_ArrayQuestions;
 
 public class TransposeMatrix {
     public static void main(String[] args) {
-        
+
     }
 
     static int[][] transpose(int[][] matrix) {
