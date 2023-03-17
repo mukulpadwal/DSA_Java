@@ -78,7 +78,7 @@ public class SudokuSolver {
             }
         }
 
-        // If after all the above numbers are tried and we did not find any answer so it is guranteed that the sudoku can't be solved
+        // If after all the above numbers are tried, and we did not find any answer, so it is guaranteed that the sudoku can't be solved
         return false;
     }
 
